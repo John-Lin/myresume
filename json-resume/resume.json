@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Che-Wei Lin",
+    "label": "",
+    "picture": "https://avatars1.githubusercontent.com/u/4214069?v=3&s=400",
+    "email": "linton.tw@gmail.com",
+    "phone": "+886-952-301-269",
+    "website": "http://linton.tw",
+    "summary": "Graduate student majoring in Communications Engineering at National Tsing Hua University.  My current research interests include the SDN/OpenFlow and Network Function Virtualization I am also interested in open source projects especially using Node.js and Python.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hsinchu",
+      "countryCode": "TW",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "John-Lin",
+        "url": "http://github.com/John-Lin"
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Smart Network System Institute",
+      "position": "Intern",
+      "website": "http://web.iii.org.tw",
+      "startDate": "January 2014",
+      "endDate": "June 2014",
+      "summary": "Worked in the software defined networking (SDN) development group. Developed integration for intrusion detection system (IDS) and SDN controller. Prototyped SDN applications provide source NAT function.",
+      "highlights": [
+        "Developed integration for intrusion detection system (IDS) and SDN controller",
+        "Prototyped SDN applications provide NAT network function"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "2015 COSCUP",
+      "position": "Speaker",
+      "website": "http://coscup.org/2015/en/",
+      "startDate": "2015-08-15",
+      "endDate": "2015-08-16",
+      "summary": "Open Networking Workshop",
+      "highlights": [
+        "Topic: SDN and Open Networking"
+      ]
+    },
+    {
+      "organization": "2014 PyCon APAC",
+      "position": "Public relations (PR) team",
+      "website": "https://tw.pycon.org/2014apac/en/",
+      "startDate": "January 2014",
+      "endDate": "May 2014",
+      "summary": "Promote PyCon APAC",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Tsing Hua University",
+      "area": "Communication Engineering",
+      "studyType": "Master",
+      "startDate": "September 2014",
+      "endDate": "June 2016",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Yuan-Ze University",
+      "area": "Communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "September 2010",
+      "endDate": "June 2014",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Briefing Award",
+      "date": "2015-11-15",
+      "awarder": "Hackathon Taiwan",
+      "summary": "Facechats. Let you chat with the world using Facebook anonymously."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Agile Development",
+      "level": "Master",
+      "keywords": [
+        "Continuous Integration",
+        "Continuous Delivery"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML/CSS/Javascript",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": [
+        "Express",
+        "Electron",
+        "Mocha"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Ryu SDN Framework"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Master",
+      "keywords": [
+        "Sinatra",
+        "Minitest"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": [
+        "DynamoDB",
+        "SQS",
+        "EC2"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "Shipyard"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
