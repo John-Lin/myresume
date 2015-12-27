@@ -87,7 +87,7 @@ Best Briefing Award
   : Shipyard, docker management build for network function virtualization platform. Providing Virtual CPE cloud services
 
 * AWS
-  : SQS, Cloud message queuing service connect to IronWorker to process async tasks
+  : SQS, Cloud message queuing service connect to IronWorker to queue/schedule tasks
   : DynamoDB, NoSQL database service work with vogels data modeling
   : EC2, Compute Cloud
 
